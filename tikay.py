@@ -35,5 +35,6 @@ except:
 #PASO 1 -Extracción de la ISO-
 print "PASO 1 -Extracción de la ISO-"
 print "A continuación se extraerá la ISO en la carpeta de trabajo."
+print "Se le solicitará su contraseña de administrador."
 print "La operación puede demorar unos minutos."
 raw_input ("-Presione una tecla para continuar..-")
