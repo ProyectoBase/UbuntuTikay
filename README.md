@@ -1,4 +1,5 @@
 **Ubuntu Tikay**
+
 *Español*
 
 Este script es un intento de automatizar las tareas de creación y remasterización de Distros basadas en Ubuntu.
